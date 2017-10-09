@@ -1,1 +1,1 @@
-# colorGame
+# This is my RGB picker project colorGame developed as part of the Udemy course "The Web Developer Bootcamp" by Colt Steele.
